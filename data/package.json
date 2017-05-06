@@ -1,0 +1,33 @@
+[
+  {
+    "carte":"热销菜品",
+    "view":[
+      {"name":"红烧肉","price":38},
+      {"name":"宫保鸡丁","price":58},
+      {"name":"水煮鱼","price":78}
+    ]
+  },
+  {
+    "carte":"热菜",
+    "view":[
+      {"name":"小炒日本豆腐","price":49},
+      {"name":"烤鱼","price":58}
+    ]
+  },
+  {
+    "carte":"凉菜",
+    "view":[
+      {"name":"拍黄瓜","price":34},
+      {"name":"咸萝卜","price":54},
+      {"name":"蕨根粉","price":76}
+    ]
+  },
+  {
+    "carte":"套餐",
+    "view":[
+      {"name":"豪华套餐","price":123},
+      {"name":"普通套餐","price":32},
+      {"name":"普通套餐2","price":69}
+    ]
+  }
+]
